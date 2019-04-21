@@ -52,7 +52,7 @@
     </table>           
     </div>
         <p>
-        <asp:Button ID="btnDangKy" runat="server" Text="Đăng Ký" Width="93px" OnClick="btnDangKy_Click" CssClass="auto-style3" />
+        <asp:Button ID="btnDangKy" runat="server" Text="Register" Width="93px" OnClick="btnDangKy_Click" CssClass="auto-style3" />
         </p>
     </form>
 </body>
